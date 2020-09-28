@@ -17,6 +17,9 @@ crime_statistics <- crime_resources %>%
   get_resource()
 ```
 
+## Author: Bianca Pokhrel
+
+
 ## Abstract
 
 Toronto is home to millions of people including myself. As a young student living in the Bay Street Corridor, I was particularly interested in crime rates where I live- specifically in the rates of assault over the years. This data set accumulates crime rates for various different crimes within each neighbourhood in Toronto. This analysis extracts assault information specifically from the Bay Street Corridor. 
