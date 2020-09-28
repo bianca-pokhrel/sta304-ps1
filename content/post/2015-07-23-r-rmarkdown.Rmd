@@ -17,7 +17,9 @@ crime_statistics <- crime_resources %>%
   get_resource()
 ```
 
-## Author: Bianca Pokhrel
+### Author: 
+
+Bianca Pokhrel
 
 
 ## Abstract
